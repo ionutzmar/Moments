@@ -1,12 +1,12 @@
 # Moments
 
-This program consists of two parts. I have used an Arduino Uno board which communicates with an windows application.
+This program consists of two parts. I have used an Arduino Uno board which communicates with an Windows application.
 
-Firstly, this app provides a music player. What is special about this one is that you can play/pause the musc by kncoking in the table or clapping your hands twice. You press the forward button by clapping your hands three time. Your press the backward button by clapping your hands four times.
+Firstly, this app provides a music player. What's special about this one is that you can play/pause the music by knocking the table or by clapping your hands twice, play the next song by knocking/clapping three time and the previous by knocking/clapping four times.
 
 Secondly, I have used a temperature sensor. The temperature in your room is displayed on the screen.
 
-When there is dark in your room a lamp is turned on.
+When your room is dark a lamp is turned on.
 
 You can play a game on the LCD display.
 
